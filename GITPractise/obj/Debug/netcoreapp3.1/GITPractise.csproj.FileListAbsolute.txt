@@ -1,0 +1,14 @@
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\bin\Debug\netcoreapp3.1\GITPractise.exe
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\bin\Debug\netcoreapp3.1\GITPractise.deps.json
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\bin\Debug\netcoreapp3.1\GITPractise.runtimeconfig.json
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\bin\Debug\netcoreapp3.1\GITPractise.runtimeconfig.dev.json
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\bin\Debug\netcoreapp3.1\GITPractise.dll
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\bin\Debug\netcoreapp3.1\GITPractise.pdb
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.csproj.AssemblyReference.cache
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.AssemblyInfoInputs.cache
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.AssemblyInfo.cs
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.csproj.CoreCompileInputs.cache
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.dll
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.pdb
+C:\Users\kbhps\Source\Repos\Practise\GITPractise\obj\Debug\netcoreapp3.1\GITPractise.genruntimeconfig.cache
