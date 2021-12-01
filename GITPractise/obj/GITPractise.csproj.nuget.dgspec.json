@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kbhps\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj": {}
+    "C:\\Users\\lingaraj p patil\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kbhps\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj": {
+    "C:\\Users\\lingaraj p patil\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kbhps\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj",
+        "projectUniqueName": "C:\\Users\\lingaraj p patil\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj",
         "projectName": "GITPractise",
-        "projectPath": "C:\\Users\\kbhps\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj",
-        "packagesPath": "C:\\Users\\kbhps\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kbhps\\Source\\Repos\\Practise\\GITPractise\\obj\\",
+        "projectPath": "C:\\Users\\lingaraj p patil\\Source\\Repos\\Practise\\GITPractise\\GITPractise.csproj",
+        "packagesPath": "C:\\Users\\lingaraj p patil\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lingaraj p patil\\Source\\Repos\\Practise\\GITPractise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kbhps\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lingaraj p patil\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
