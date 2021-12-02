@@ -8,9 +8,10 @@ namespace GITPractise
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello Collaborator ");
-             Console.WriteLine("Banto bhai");
-            Console.WriteLine("Ayt Alla matten Aitii");
-            Console.WriteLine("jai hind bharat banda");
+             Console.WriteLine("Practising Git");
+            Console.WriteLine("i did a change Naveen");
+            Console.WriteLine("Yeah..got that");
+            Console.WriteLine("Connecting with the Jenkin")
         }
     }
 }
